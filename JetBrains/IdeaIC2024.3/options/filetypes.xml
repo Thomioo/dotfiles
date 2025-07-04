@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="19">
-    <extensionMap>
-      <mapping pattern="*.png.mcmeta" type="JSON" />
-      <removed_mapping ext="nbt" approved="true" type="Minecraft NBT" />
-    </extensionMap>
-  </component>
-</application>
