@@ -1,0 +1,44 @@
+<application>
+  <component name="VimJumpsSettings">
+    <project id="GitWorldSync-3177d753">
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/GitSyncManager.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/GitWorldSyncMod.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/WorldSyncHooks.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/OAuthHandler.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/ModConfig.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/WorldSaver/build.gradle" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/WorldSaver/settings.gradle" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/WorldSaver/gradlew.bat" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/ModConfig.java" timestamp="1747238224875">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/GitWorldSyncMod.java" timestamp="1747238225414">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/OAuthHandler.java" timestamp="1747238223703">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/GitSyncManager.java" timestamp="1747238222494">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/WorldSaver/src/main/java/com/example/gitworldsync/WorldSyncHooks.java" timestamp="1747238224298">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

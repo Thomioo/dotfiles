@@ -1,0 +1,27 @@
+return {
+  {
+    "nvim-telescope/telescope.nvim",
+    dependencies = { "nvim-lua/plenary.nvim" },
+    config = function()
+      require('telescope').setup{
+        defaults = {
+          -- your default config here
+        },
+        pickers = {
+          find_files = {
+            hidden = true,
+            no_ignore = true,
+            find_command = {
+              "rg",
+              "--files",
+              "--hidden",
+              "--glob",
+              "!.git/*",
+            },
+          },
+        },
+      }
+    end,
+  },
+}
+

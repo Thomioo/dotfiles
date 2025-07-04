@@ -1,0 +1,555 @@
+5/6/2025, 9:10:15 PM GMT+2 0: 
+
+----------------------------------------------
+5/6/2025, 9:10:15 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/6/2025, 9:10:15 PM GMT+2 2: ✅ webContents.created web1 ""
+5/6/2025, 9:10:15 PM GMT+2 3: ✅ window.created win1 "discord"
+5/6/2025, 9:10:16 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/6/2025, 9:10:26 PM GMT+2 5: ✅ webContents.created web2 ""
+5/6/2025, 9:10:26 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/6/2025, 9:10:28 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/6/2025, 9:10:28 PM GMT+2 8: window.close win1
+5/6/2025, 9:10:28 PM GMT+2 9: webContents.destroyed web1
+5/6/2025, 9:10:28 PM GMT+2 10: window.closed win1
+5/6/2025, 9:11:07 PM GMT+2 11: ✅ webContents.did-finish-load web2
+5/6/2025, 9:11:37 PM GMT+2 12: before-quit
+5/6/2025, 9:11:37 PM GMT+2 13: window.close win2
+5/6/2025, 9:11:37 PM GMT+2 14: webContents.destroyed web2
+5/6/2025, 9:11:37 PM GMT+2 15: window.closed win2
+5/6/2025, 9:11:39 PM GMT+2 0: 
+
+----------------------------------------------
+5/6/2025, 9:11:39 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/6/2025, 9:11:39 PM GMT+2 2: ✅ webContents.created web1 ""
+5/6/2025, 9:11:39 PM GMT+2 3: ✅ window.created win1 "discord"
+5/6/2025, 9:11:40 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/6/2025, 9:11:40 PM GMT+2 5: ✅ webContents.created web2 ""
+5/6/2025, 9:11:40 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/6/2025, 9:11:42 PM GMT+2 7: ❌ webContents.did-fail-load web2" -3 
+5/6/2025, 9:11:43 PM GMT+2 8: ✅ webContents.did-finish-load web2
+5/6/2025, 9:11:43 PM GMT+2 9: window.close win1
+5/6/2025, 9:11:43 PM GMT+2 10: webContents.destroyed web1
+5/6/2025, 9:11:43 PM GMT+2 11: window.closed win1
+5/6/2025, 9:12:14 PM GMT+2 12: window.close win2
+5/6/2025, 9:12:27 PM GMT+2 0: 
+
+----------------------------------------------
+5/6/2025, 9:12:36 PM GMT+2 13: window.close win2
+5/6/2025, 9:12:38 PM GMT+2 14: before-quit
+5/6/2025, 9:12:38 PM GMT+2 15: window.close win2
+5/6/2025, 9:12:41 PM GMT+2 0: 
+
+----------------------------------------------
+5/6/2025, 9:12:41 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/6/2025, 9:12:41 PM GMT+2 2: ✅ webContents.created web1 ""
+5/6/2025, 9:12:41 PM GMT+2 3: ✅ window.created win1 "discord"
+5/6/2025, 9:12:41 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/6/2025, 9:12:41 PM GMT+2 5: ✅ webContents.created web2 ""
+5/6/2025, 9:12:41 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/6/2025, 9:12:44 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/6/2025, 9:12:44 PM GMT+2 8: window.close win1
+5/6/2025, 9:12:44 PM GMT+2 9: webContents.destroyed web1
+5/6/2025, 9:12:44 PM GMT+2 10: window.closed win1
+5/6/2025, 9:13:13 PM GMT+2 11: ✅ webContents.did-finish-load web2
+5/6/2025, 9:15:14 PM GMT+2 0: 
+
+----------------------------------------------
+5/6/2025, 9:15:14 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/6/2025, 9:15:14 PM GMT+2 2: ✅ webContents.created web1 ""
+5/6/2025, 9:15:14 PM GMT+2 3: ✅ window.created win1 "discord"
+5/6/2025, 9:15:14 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/6/2025, 9:15:15 PM GMT+2 5: ✅ webContents.created web2 ""
+5/6/2025, 9:15:15 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/6/2025, 9:15:17 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/6/2025, 9:15:17 PM GMT+2 8: window.close win1
+5/6/2025, 9:15:17 PM GMT+2 9: webContents.destroyed web1
+5/6/2025, 9:15:17 PM GMT+2 10: window.closed win1
+5/6/2025, 9:32:22 PM GMT+2 0: 
+
+----------------------------------------------
+5/6/2025, 9:32:22 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/6/2025, 9:32:22 PM GMT+2 2: ✅ webContents.created web1 ""
+5/6/2025, 9:32:22 PM GMT+2 3: ✅ window.created win1 "discord"
+5/6/2025, 9:32:22 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/6/2025, 9:32:22 PM GMT+2 5: ✅ webContents.created web2 ""
+5/6/2025, 9:32:22 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/6/2025, 9:32:25 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/6/2025, 9:32:25 PM GMT+2 8: window.close win1
+5/6/2025, 9:32:25 PM GMT+2 9: webContents.destroyed web1
+5/6/2025, 9:32:25 PM GMT+2 10: window.closed win1
+5/7/2025, 12:17:56 AM GMT+2 11: before-quit
+5/7/2025, 12:20:18 AM GMT+2 0: 
+
+----------------------------------------------
+5/7/2025, 12:20:18 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/7/2025, 12:20:18 AM GMT+2 2: ✅ webContents.created web1 ""
+5/7/2025, 12:20:18 AM GMT+2 3: ✅ window.created win1 "discord"
+5/7/2025, 12:20:18 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/7/2025, 12:20:19 AM GMT+2 5: ✅ webContents.created web2 ""
+5/7/2025, 12:20:19 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/7/2025, 12:20:21 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/7/2025, 12:20:21 AM GMT+2 8: window.close win1
+5/7/2025, 12:20:21 AM GMT+2 9: webContents.destroyed web1
+5/7/2025, 12:20:21 AM GMT+2 10: window.closed win1
+5/7/2025, 12:20:34 AM GMT+2 11: window.close win2
+5/7/2025, 12:20:38 AM GMT+2 12: before-quit
+5/7/2025, 12:20:38 AM GMT+2 13: window.close win2
+5/7/2025, 12:24:32 AM GMT+2 0: 
+
+----------------------------------------------
+5/7/2025, 12:24:32 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/7/2025, 12:24:32 AM GMT+2 2: ✅ webContents.created web1 ""
+5/7/2025, 12:24:32 AM GMT+2 3: ✅ window.created win1 "discord"
+5/7/2025, 12:24:32 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/7/2025, 12:24:32 AM GMT+2 5: ✅ webContents.created web2 ""
+5/7/2025, 12:24:32 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/7/2025, 12:24:34 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/7/2025, 12:24:34 AM GMT+2 8: window.close win1
+5/7/2025, 12:24:34 AM GMT+2 9: webContents.destroyed web1
+5/7/2025, 12:24:34 AM GMT+2 10: window.closed win1
+5/7/2025, 12:25:34 AM GMT+2 11: before-quit
+5/7/2025, 12:25:34 AM GMT+2 12: window.close win2
+5/7/2025, 12:29:33 AM GMT+2 0: 
+
+----------------------------------------------
+5/7/2025, 12:29:33 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/7/2025, 12:29:33 AM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/7/2025, 12:29:33 AM GMT+2 3: ✅ window.created win1 "discord"
+5/7/2025, 12:29:33 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/7/2025, 12:29:33 AM GMT+2 5: ✅ webContents.created web2 ""
+5/7/2025, 12:29:33 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/7/2025, 12:29:35 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/7/2025, 12:29:35 AM GMT+2 8: window.close win1
+5/7/2025, 12:29:35 AM GMT+2 9: webContents.destroyed web1
+5/7/2025, 12:29:35 AM GMT+2 10: window.closed win1
+5/7/2025, 12:29:42 AM GMT+2 11: window.close win2
+5/7/2025, 12:29:45 AM GMT+2 12: before-quit
+5/7/2025, 12:29:45 AM GMT+2 13: window.close win2
+5/7/2025, 12:30:11 AM GMT+2 0: 
+
+----------------------------------------------
+5/7/2025, 12:30:11 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/7/2025, 12:30:11 AM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/7/2025, 12:30:11 AM GMT+2 3: ✅ window.created win1 "discord"
+5/7/2025, 12:30:11 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/7/2025, 12:30:11 AM GMT+2 5: ✅ webContents.created web2 ""
+5/7/2025, 12:30:11 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/7/2025, 12:30:13 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/7/2025, 12:30:13 AM GMT+2 8: window.close win1
+5/7/2025, 12:30:13 AM GMT+2 9: webContents.destroyed web1
+5/7/2025, 12:30:13 AM GMT+2 10: window.closed win1
+5/7/2025, 12:30:30 AM GMT+2 11: before-quit
+5/7/2025, 12:30:30 AM GMT+2 12: window.close win2
+5/7/2025, 12:35:47 AM GMT+2 0: 
+
+----------------------------------------------
+5/7/2025, 12:35:47 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/7/2025, 12:35:47 AM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/7/2025, 12:35:47 AM GMT+2 3: ✅ window.created win1 "discord"
+5/7/2025, 12:35:47 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/7/2025, 12:35:47 AM GMT+2 5: ✅ webContents.created web2 ""
+5/7/2025, 12:35:47 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/7/2025, 12:35:49 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/7/2025, 12:35:49 AM GMT+2 8: window.close win1
+5/7/2025, 12:35:49 AM GMT+2 9: webContents.destroyed web1
+5/7/2025, 12:35:49 AM GMT+2 10: window.closed win1
+5/7/2025, 12:37:58 AM GMT+2 11: window.close win2
+5/7/2025, 12:38:01 AM GMT+2 12: before-quit
+5/7/2025, 12:38:01 AM GMT+2 13: window.close win2
+5/7/2025, 12:44:48 AM GMT+2 0: 
+
+----------------------------------------------
+5/7/2025, 12:44:48 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/7/2025, 12:44:48 AM GMT+2 2: ✅ webContents.created web1 ""
+5/7/2025, 12:44:48 AM GMT+2 3: ✅ window.created win1 "discord"
+5/7/2025, 12:44:48 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/7/2025, 12:44:48 AM GMT+2 5: ✅ webContents.created web2 ""
+5/7/2025, 12:44:48 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/7/2025, 12:44:51 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/7/2025, 12:44:51 AM GMT+2 8: window.close win1
+5/7/2025, 12:44:51 AM GMT+2 9: webContents.destroyed web1
+5/7/2025, 12:44:51 AM GMT+2 10: window.closed win1
+5/7/2025, 12:45:32 AM GMT+2 11: window.close win2
+5/7/2025, 12:45:34 AM GMT+2 12: before-quit
+5/7/2025, 12:45:34 AM GMT+2 13: window.close win2
+5/7/2025, 12:46:49 AM GMT+2 0: 
+
+----------------------------------------------
+5/7/2025, 12:46:49 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/7/2025, 12:46:49 AM GMT+2 2: ✅ webContents.created web1 "index.html"
+5/7/2025, 12:46:49 AM GMT+2 3: ✅ window.created win1 "discord"
+5/7/2025, 12:46:50 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/7/2025, 12:46:50 AM GMT+2 5: ✅ webContents.created web2 ""
+5/7/2025, 12:46:50 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/7/2025, 12:46:52 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/7/2025, 12:46:52 AM GMT+2 8: window.close win1
+5/7/2025, 12:46:52 AM GMT+2 9: webContents.destroyed web1
+5/7/2025, 12:46:52 AM GMT+2 10: window.closed win1
+5/7/2025, 12:48:03 AM GMT+2 11: window.close win2
+5/7/2025, 12:48:03 AM GMT+2 12: before-quit
+5/7/2025, 12:48:03 AM GMT+2 13: window.close win2
+5/7/2025, 12:48:03 AM GMT+2 14: webContents.destroyed web2
+5/7/2025, 12:48:03 AM GMT+2 15: window.closed win2
+5/8/2025, 6:27:52 AM GMT+2 0: 
+
+----------------------------------------------
+5/8/2025, 6:27:52 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/8/2025, 6:27:52 AM GMT+2 2: ✅ webContents.created web1 ""
+5/8/2025, 6:27:52 AM GMT+2 3: ✅ window.created win1 "discord"
+5/8/2025, 6:27:53 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/8/2025, 6:27:53 AM GMT+2 5: ✅ webContents.created web2 ""
+5/8/2025, 6:27:53 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/8/2025, 6:28:00 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/8/2025, 6:28:00 AM GMT+2 8: window.close win1
+5/8/2025, 6:28:00 AM GMT+2 9: webContents.destroyed web1
+5/8/2025, 6:28:00 AM GMT+2 10: window.closed win1
+5/8/2025, 6:28:27 AM GMT+2 11: before-quit
+5/8/2025, 6:28:27 AM GMT+2 12: window.close win2
+5/8/2025, 6:28:27 AM GMT+2 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+5/9/2025, 7:05:28 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 7:05:28 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 7:05:28 AM GMT+2 2: ✅ webContents.created web1 ""
+5/9/2025, 7:05:28 AM GMT+2 3: ✅ window.created win1 "discord"
+5/9/2025, 7:05:28 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/9/2025, 7:05:28 AM GMT+2 5: ✅ webContents.created web2 ""
+5/9/2025, 7:05:28 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/9/2025, 7:05:33 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/9/2025, 7:05:34 AM GMT+2 8: window.close win1
+5/9/2025, 7:05:34 AM GMT+2 9: webContents.destroyed web1
+5/9/2025, 7:05:34 AM GMT+2 10: window.closed win1
+5/9/2025, 7:23:41 AM GMT+2 11: before-quit
+5/9/2025, 7:26:42 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 7:26:42 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 7:26:42 AM GMT+2 2: ✅ webContents.created web1 ""
+5/9/2025, 7:26:42 AM GMT+2 3: ✅ window.created win1 "discord"
+5/9/2025, 7:26:43 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/9/2025, 7:26:43 AM GMT+2 5: ✅ webContents.created web2 ""
+5/9/2025, 7:26:43 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/9/2025, 7:26:47 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/9/2025, 7:26:47 AM GMT+2 8: window.close win1
+5/9/2025, 7:26:47 AM GMT+2 9: webContents.destroyed web1
+5/9/2025, 7:26:47 AM GMT+2 10: window.closed win1
+5/9/2025, 7:28:18 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 7:28:18 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 7:28:20 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 7:28:20 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 7:28:23 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 7:28:25 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 7:28:25 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 7:28:34 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 7:28:35 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 7:28:35 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 8:47:21 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:19:47 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:22:35 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:23:13 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:24:06 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:25:39 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:27:27 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:35:25 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:42:18 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 9:56:48 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 10:13:38 AM GMT+2 11: before-quit
+5/9/2025, 10:22:44 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 10:22:44 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 10:22:44 AM GMT+2 2: ✅ webContents.created web1 ""
+5/9/2025, 10:22:44 AM GMT+2 3: ✅ window.created win1 "discord"
+5/9/2025, 10:22:44 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/9/2025, 10:22:44 AM GMT+2 5: ✅ webContents.created web2 ""
+5/9/2025, 10:22:44 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/9/2025, 10:22:46 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/9/2025, 10:22:46 AM GMT+2 8: window.close win1
+5/9/2025, 10:22:46 AM GMT+2 9: webContents.destroyed web1
+5/9/2025, 10:22:46 AM GMT+2 10: window.closed win1
+5/9/2025, 10:30:31 AM GMT+2 11: window.close win2
+5/9/2025, 10:30:33 AM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 12:36:54 PM GMT+2 12: before-quit
+5/9/2025, 12:38:39 PM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 12:38:39 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 12:38:39 PM GMT+2 2: ✅ webContents.created web1 ""
+5/9/2025, 12:38:39 PM GMT+2 3: ✅ window.created win1 "discord"
+5/9/2025, 12:38:39 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/9/2025, 12:38:39 PM GMT+2 5: ✅ webContents.created web2 ""
+5/9/2025, 12:38:39 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/9/2025, 12:38:41 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/9/2025, 12:38:41 PM GMT+2 8: window.close win1
+5/9/2025, 12:38:41 PM GMT+2 9: webContents.destroyed web1
+5/9/2025, 12:38:41 PM GMT+2 10: window.closed win1
+5/9/2025, 1:38:54 PM GMT+2 11: before-quit
+5/9/2025, 1:40:15 PM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 1:40:15 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 1:40:15 PM GMT+2 2: ✅ webContents.created web1 ""
+5/9/2025, 1:40:15 PM GMT+2 3: ✅ window.created win1 "discord"
+5/9/2025, 1:40:15 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/9/2025, 1:40:15 PM GMT+2 5: ✅ webContents.created web2 ""
+5/9/2025, 1:40:15 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/9/2025, 1:40:17 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/9/2025, 1:40:17 PM GMT+2 8: window.close win1
+5/9/2025, 1:40:17 PM GMT+2 9: webContents.destroyed web1
+5/9/2025, 1:40:17 PM GMT+2 10: window.closed win1
+5/9/2025, 2:54:01 PM GMT+2 11: before-quit
+5/9/2025, 2:54:01 PM GMT+2 12: window.close win2
+5/9/2025, 2:57:06 PM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 2:57:06 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 2:57:06 PM GMT+2 2: ✅ webContents.created web1 ""
+5/9/2025, 2:57:06 PM GMT+2 3: ✅ window.created win1 "discord"
+5/9/2025, 2:57:06 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/9/2025, 2:57:06 PM GMT+2 5: ✅ webContents.created web2 ""
+5/9/2025, 2:57:06 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/9/2025, 2:57:08 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/9/2025, 2:57:09 PM GMT+2 8: window.close win1
+5/9/2025, 2:57:09 PM GMT+2 9: webContents.destroyed web1
+5/9/2025, 2:57:09 PM GMT+2 10: window.closed win1
+5/9/2025, 3:49:17 PM GMT+2 11: window.close win2
+5/9/2025, 3:49:35 PM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 5:51:01 PM GMT+2 12: window.close win2
+5/9/2025, 5:51:02 PM GMT+2 0: 
+
+----------------------------------------------
+5/9/2025, 5:51:02 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/9/2025, 8:01:14 PM GMT+2 13: ❌ render-process-gone { reason: 'crashed', exitCode: 139 }
+5/9/2025, 8:01:14 PM GMT+2 14: window.closed win2
+5/9/2025, 8:01:14 PM GMT+2 15: ✅ webContents.created web3 ""
+5/9/2025, 8:01:14 PM GMT+2 16: ✅ window.created win3 "Discord"
+5/9/2025, 8:01:14 PM GMT+2 17: webContents.destroyed web2
+5/9/2025, 8:01:14 PM GMT+2 18: Wrote 551872 byte minidump to /home/tomas/.config/discord/0.0.94/modules/crashlogs/5_9_2025__8_01_14_PM_GMT_2-0-minidump.dmp
+5/9/2025, 8:01:14 PM GMT+2 19: Sentry report: {"contexts":{"trace":{"trace_id":"3298f79e2d1e4f8f8cfcdc50a2c245e6","span_id":"b377f5b4c8ba1f42"},"app":{"app_name":"discord","app_version":"0.0.94","app_start_time":"2025-05-09T12:57:05.036Z"},"os":{"kernel_version":"6.14.5-arch1-1","name":"Ubuntu Linux","version":"\"rolling\""},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"134.0.6998.179"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1,"screen_resolution":"2560x1440","memory_size":41343123456,"free_memory":27148111872,"processor_count":16,"cpu_description":"AMD Ryzen 7 6800HS with Radeon Graphics","processor_frequency":4414},"node":{"name":"Node","type":"runtime","version":"22.14.0"},"runtime":{"name":"Electron","version":"35.1.5"},"electron":{"crashed_url":"https://discord.com/channels/902483466308956241/910996064931295333","details":{"reason":"crashed","exitCode":139}}},"environment":"stable","release":"0.0.94","user":{"ip_address":"{{auto}}","id":"498883797949874196","username":"thomeshu","email":"tomas.pecha@gmail.com"},"tags":{"event.origin":"electron","event.environment":"native","event.process":"renderer","event_type":"native","nativeBuildNumber":"null","exit.reason":"crashed"},"level":"fatal","platform":"native","sdk":{"integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","RendererProfiling","InboundFilters","FunctionToString","LinkedErrors","RequestData","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules"],"name":"sentry.javascript.electron","version":"4.24.0","packages":[{"name":"npm:@sentry/electron","version":"4.24.0"}]},"event_id":"7fa6444159a64b21950e1267e6a7225b","timestamp":1746813674.873,"breadcrumbs":[{"timestamp":1746813189.868,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813190.245,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813190.245,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813205.639,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813205.639,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813206.179,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813206.18,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813208.07,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813208.07,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813241.447,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813241.447,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813254.186,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813254.186,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813254.259,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813254.259,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813254.984,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813254.984,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813258.788,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813258.788,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813280.778,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813280.778,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813280.857,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813280.857,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813286.898,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813286.898,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813287.292,"category":"console","data":{"arguments":["Unsubscribing from direct frames for streamId 5"],"logger":"console"},"level":"info","message":"Unsubscribing from direct frames for streamId 5"},{"timestamp":1746813287.302,"category":"console","data":{"arguments":["Subscribing to direct frames for streamId 5"],"logger":"console"},"level":"info","message":"Subscribing to direct frames for streamId 5"},{"timestamp":1746813287.303,"category":"console","data":{"arguments":["Subscribing to direct frames for streamId 21"],"logger":"console"},"level":"info","message":"Subscribing to direct frames for streamId 21"},{"timestamp":1746813287.305,"category":"ui.click","message":"div.tileChild__2f4f7 > div.overlayContainer__2f4f7"},{"timestamp":1746813288.899,"category":"console","data":{"arguments":["Unsubscribing from direct frames for streamId 21"],"logger":"console"},"level":"info","message":"Unsubscribing from direct frames for streamId 21"},{"timestamp":1746813288.903,"category":"ui.click","message":"button.staticButton_f1ceac.centerButton_f1ceac.colorable_f1ceac.experimentButton_f1ceac.colorable_f1ceac.experimentDark_f1ceac.button__201d5.lookBlank__201d5.colorBrand__201d5[aria-label=\"Share Your Screen\"][type=\"button\"]"},{"timestamp":1746813289.64,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813289.64,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813373.684,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813373.684,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813373.703,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813373.704,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813432.646,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1746813432.646,"category":"console","level":"log","message":"5/9/2025, 7:57:12 PM GMT+2 [Modules] Checking for host updates."},{"timestamp":1746813432.806,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/updates/stable?platform=linux&version=0.0.94","method":"GET","status_code":204}},{"timestamp":1746813432.807,"category":"console","level":"log","message":"5/9/2025, 7:57:12 PM GMT+2 [Modules] Host is up to date."},{"timestamp":1746813432.807,"category":"console","level":"log","message":"5/9/2025, 7:57:12 PM GMT+2 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1746813432.828,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.94&platform=linux&_=5822711","method":"GET","status_code":200}},{"timestamp":1746813432.829,"category":"console","level":"log","message":"5/9/2025, 7:57:12 PM GMT+2 [Modules] No module updates available."},{"timestamp":1746813432.829,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1746813549.961,"category":"console","data":{"arguments":["Unsubscribing from direct frames for streamId 5"],"logger":"console"},"level":"info","message":"Unsubscribing from direct frames for streamId 5"},{"timestamp":1746813625.665,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813625.665,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813625.675,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813625.675,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813651.527,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813651.527,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813652.122,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813652.122,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813655.829,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813655.829,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813656.964,"category":"ui.click","message":"g > g > g > g > path"},{"timestamp":1746813657.59,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813657.59,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813659.285,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813659.285,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813659.782,"category":"ui.click","message":"div.nativeSourceTypeButtonInner_a2de16 > div.text-sm/medium_cf4812"},{"timestamp":1746813660.278,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813660.278,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813661.431,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813661.431,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813662.696,"category":"ui.click","message":"button.button__201d5.lookFilled__201d5.colorBrand__201d5.sizeSmall__201d5.grow__201d5[type=\"submit\"]"},{"timestamp":1746813662.779,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813662.779,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813662.875,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813662.875,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813663.15,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813663.15,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813663.729,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813663.729,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813664.154,"category":"ui.click","message":"div.contents__201d5"},{"timestamp":1746813664.548,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813664.548,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813666.355,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813666.355,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813667.215,"category":"ui.click","message":"div.defaultColor__4bd52.text-xs/normal_cf4812.selectorText_c6d3dc"},{"timestamp":1746813669.506,"category":"ui.click","message":"div.contents__201d5"},{"timestamp":1746813674.816,"category":"electron","message":"app.render-process-gone","type":"ui"},{"timestamp":1746813674.817,"type":"process","category":"child-process","message":"'renderer' process exited with 'crashed'","level":"fatal","data":{"reason":"crashed","exitCode":139}},{"timestamp":1746813674.817,"category":"console","level":"error","message":"[WebContents] crashed (reason: crashed, exitCode: 139)... reloading"},{"timestamp":1746813674.835,"category":"electron","message":"window.closed","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813674.835,"category":"electron","message":"app.window-all-closed","type":"ui"},{"timestamp":1746813674.845,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1746813674.847,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1746813674.849,"category":"electron","message":"window.show","type":"ui","data":{}},{"timestamp":1746813674.85,"category":"console","level":"log","message":"Optional module ./ElectronTestRpc was not included."},{"timestamp":1746813674.86,"category":"console","level":"log","message":"blackbox: 5/9/2025, 8:01:14 PM GMT+2 13 ❌ render-process-gone { reason: 'crashed', exitCode: 139 }"},{"timestamp":1746813674.865,"category":"electron","message":"renderer.destroyed","type":"ui","data":{"id":2,"url":"https://discord.com/channels/902483466308956241/910996064931295333"}},{"timestamp":1746813674.87,"category":"electron","message":"window.focus","type":"ui","data":{}},{"timestamp":1746813674.87,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813674.87,"category":"electron","message":"window.blur","type":"ui","data":{}},{"timestamp":1746813674.87,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1746813674.87,"category":"electron","message":"window.focus","type":"ui","data":{}},{"timestamp":1746813674.87,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1746813674.871,"category":"console","level":"log","message":"blackbox: 5/9/2025, 8:01:14 PM GMT+2 14 window.closed win2"}],"modules":{},"extra":{"release_channel":"stable","sentry":{"environment":"stable","release":"0.0.94","user":{"id":"498883797949874196","username":"thomeshu","email":"tomas.pecha@gmail.com"}},"wm":"Hyprland,unknown","distro":"\"EndeavourOS Linux\"","nativeBuildNumber":"null","user_id":"498883797949874196","username":"thomeshu","email":"tomas.pecha@gmail.com"}}
+5/9/2025, 8:01:17 PM GMT+2 20: ✅ webContents.did-finish-load web3
+5/9/2025, 10:22:16 PM GMT+2 21: before-quit
+5/10/2025, 11:25:23 AM GMT+2 0: 
+
+----------------------------------------------
+5/10/2025, 11:25:23 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/10/2025, 11:25:23 AM GMT+2 2: ✅ webContents.created web1 ""
+5/10/2025, 11:25:23 AM GMT+2 3: ✅ window.created win1 "discord"
+5/10/2025, 11:25:23 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/10/2025, 11:25:23 AM GMT+2 5: ✅ webContents.created web2 ""
+5/10/2025, 11:25:23 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/10/2025, 9:25:28 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/10/2025, 9:25:28 AM GMT+2 8: window.close win1
+5/10/2025, 9:25:28 AM GMT+2 9: webContents.destroyed web1
+5/10/2025, 9:25:28 AM GMT+2 10: window.closed win1
+5/10/2025, 9:47:12 AM GMT+2 11: before-quit
+5/10/2025, 10:23:15 AM GMT+2 0: 
+
+----------------------------------------------
+5/10/2025, 10:23:15 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/10/2025, 10:23:15 AM GMT+2 2: ✅ webContents.created web1 ""
+5/10/2025, 10:23:15 AM GMT+2 3: ✅ window.created win1 "discord"
+5/10/2025, 10:23:15 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/10/2025, 10:23:15 AM GMT+2 5: ✅ webContents.created web2 ""
+5/10/2025, 10:23:15 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/10/2025, 10:23:17 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/10/2025, 10:23:18 AM GMT+2 8: window.close win1
+5/10/2025, 10:23:18 AM GMT+2 9: webContents.destroyed web1
+5/10/2025, 10:23:18 AM GMT+2 10: window.closed win1
+5/10/2025, 11:29:08 AM GMT+2 11: window.close win2
+5/10/2025, 11:29:25 AM GMT+2 12: before-quit
+5/10/2025, 7:17:50 PM GMT+2 0: 
+
+----------------------------------------------
+5/10/2025, 7:17:50 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/10/2025, 7:17:50 PM GMT+2 2: ✅ webContents.created web1 ""
+5/10/2025, 7:17:50 PM GMT+2 3: ✅ window.created win1 "discord"
+5/10/2025, 7:17:51 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/10/2025, 7:17:51 PM GMT+2 5: ✅ webContents.created web2 ""
+5/10/2025, 7:17:51 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/10/2025, 7:17:53 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/10/2025, 7:17:53 PM GMT+2 8: window.close win1
+5/10/2025, 7:17:53 PM GMT+2 9: webContents.destroyed web1
+5/10/2025, 7:17:53 PM GMT+2 10: window.closed win1
+5/10/2025, 7:19:48 PM GMT+2 11: before-quit
+5/10/2025, 7:19:48 PM GMT+2 12: window.close win2
+5/10/2025, 7:44:52 PM GMT+2 0: 
+
+----------------------------------------------
+5/10/2025, 7:44:52 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/10/2025, 7:44:52 PM GMT+2 2: ✅ webContents.created web1 ""
+5/10/2025, 7:44:52 PM GMT+2 3: ✅ window.created win1 "discord"
+5/10/2025, 7:44:53 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/10/2025, 7:44:53 PM GMT+2 5: ✅ webContents.created web2 ""
+5/10/2025, 7:44:53 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/10/2025, 7:44:55 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/10/2025, 7:44:55 PM GMT+2 8: window.close win1
+5/10/2025, 7:44:55 PM GMT+2 9: webContents.destroyed web1
+5/10/2025, 7:44:55 PM GMT+2 10: window.closed win1
+5/10/2025, 9:14:16 PM GMT+2 11: before-quit
+5/10/2025, 9:14:16 PM GMT+2 12: window.close win2
+5/10/2025, 9:42:13 PM GMT+2 0: 
+
+----------------------------------------------
+5/10/2025, 9:42:13 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/10/2025, 9:42:13 PM GMT+2 2: ✅ webContents.created web1 ""
+5/10/2025, 9:42:13 PM GMT+2 3: ✅ window.created win1 "discord"
+5/10/2025, 9:42:13 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/10/2025, 9:42:13 PM GMT+2 5: ✅ webContents.created web2 ""
+5/10/2025, 9:42:14 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/10/2025, 9:42:16 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/10/2025, 9:42:16 PM GMT+2 8: window.close win1
+5/10/2025, 9:42:16 PM GMT+2 9: webContents.destroyed web1
+5/10/2025, 9:42:16 PM GMT+2 10: window.closed win1
+5/10/2025, 9:42:38 PM GMT+2 11: before-quit
+5/11/2025, 9:03:39 AM GMT+2 0: 
+
+----------------------------------------------
+5/11/2025, 9:03:39 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/11/2025, 9:03:39 AM GMT+2 2: ✅ webContents.created web1 ""
+5/11/2025, 9:03:39 AM GMT+2 3: ✅ window.created win1 "discord"
+5/11/2025, 9:03:40 AM GMT+2 4: ✅ webContents.did-finish-load web1
+5/11/2025, 9:03:40 AM GMT+2 5: ✅ webContents.created web2 ""
+5/11/2025, 9:03:40 AM GMT+2 6: ✅ window.created win2 "Discord"
+5/11/2025, 9:03:42 AM GMT+2 7: ✅ webContents.did-finish-load web2
+5/11/2025, 9:03:43 AM GMT+2 8: window.close win1
+5/11/2025, 9:03:43 AM GMT+2 9: webContents.destroyed web1
+5/11/2025, 9:03:43 AM GMT+2 10: window.closed win1
+5/11/2025, 11:15:36 AM GMT+2 11: ✅ webContents.created web3 ""
+5/11/2025, 11:15:36 AM GMT+2 12: ✅ window.created win3 "Discord Popout"
+5/11/2025, 11:15:39 AM GMT+2 13: ✅ webContents.did-finish-load web3
+5/11/2025, 11:15:53 AM GMT+2 14: window.close win3
+5/11/2025, 11:15:53 AM GMT+2 15: window.close win3
+5/11/2025, 11:15:53 AM GMT+2 16: webContents.destroyed web3
+5/11/2025, 11:15:53 AM GMT+2 17: window.closed win3
+5/11/2025, 2:29:24 PM GMT+2 0: 
+
+----------------------------------------------
+5/11/2025, 2:29:24 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/11/2025, 2:29:24 PM GMT+2 2: ✅ webContents.created web1 ""
+5/11/2025, 2:29:24 PM GMT+2 3: ✅ window.created win1 "discord"
+5/11/2025, 2:29:25 PM GMT+2 4: ✅ webContents.created web2 ""
+5/11/2025, 2:29:25 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/11/2025, 2:29:25 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/11/2025, 2:29:27 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/11/2025, 2:29:28 PM GMT+2 8: window.close win1
+5/11/2025, 2:29:28 PM GMT+2 9: webContents.destroyed web1
+5/11/2025, 2:29:28 PM GMT+2 10: window.closed win1
+5/11/2025, 6:21:03 PM GMT+2 11: before-quit
+5/11/2025, 6:21:03 PM GMT+2 12: window.close win2
+5/13/2025, 5:17:46 PM GMT+2 0: 
+
+----------------------------------------------
+5/13/2025, 5:17:46 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/13/2025, 5:17:46 PM GMT+2 2: ✅ webContents.created web1 ""
+5/13/2025, 5:17:46 PM GMT+2 3: ✅ window.created win1 "discord"
+5/13/2025, 5:17:47 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/13/2025, 5:17:51 PM GMT+2 5: ✅ webContents.created web2 ""
+5/13/2025, 5:17:51 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/13/2025, 5:17:59 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/13/2025, 5:17:59 PM GMT+2 8: window.close win1
+5/13/2025, 5:17:59 PM GMT+2 9: webContents.destroyed web1
+5/13/2025, 5:17:59 PM GMT+2 10: window.closed win1
+5/13/2025, 5:18:16 PM GMT+2 11: window.closed win2
+5/13/2025, 5:18:49 PM GMT+2 0: 
+
+----------------------------------------------
+5/13/2025, 5:18:49 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/13/2025, 5:18:49 PM GMT+2 2: ✅ webContents.created web1 ""
+5/13/2025, 5:18:49 PM GMT+2 3: ✅ window.created win1 "discord"
+5/13/2025, 5:18:50 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/13/2025, 5:18:50 PM GMT+2 5: ✅ webContents.created web2 ""
+5/13/2025, 5:18:50 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/13/2025, 5:18:55 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/13/2025, 5:18:55 PM GMT+2 8: window.close win1
+5/13/2025, 5:18:55 PM GMT+2 9: webContents.destroyed web1
+5/13/2025, 5:18:55 PM GMT+2 10: window.closed win1
+5/13/2025, 6:34:23 PM GMT+2 11: before-quit
+5/14/2025, 4:54:13 PM GMT+2 0: 
+
+----------------------------------------------
+5/14/2025, 4:54:13 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/14/2025, 4:54:13 PM GMT+2 2: ✅ webContents.created web1 ""
+5/14/2025, 4:54:13 PM GMT+2 3: ✅ window.created win1 "discord"
+5/14/2025, 4:54:13 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/14/2025, 4:54:14 PM GMT+2 5: ✅ webContents.created web2 ""
+5/14/2025, 4:54:14 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/14/2025, 4:54:16 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/14/2025, 4:54:16 PM GMT+2 8: window.close win1
+5/14/2025, 4:54:16 PM GMT+2 9: webContents.destroyed web1
+5/14/2025, 4:54:16 PM GMT+2 10: window.closed win1
+5/14/2025, 4:54:36 PM GMT+2 11: window.closed win2
+5/14/2025, 6:52:38 PM GMT+2 0: 
+
+----------------------------------------------
+5/14/2025, 6:52:38 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/14/2025, 6:52:38 PM GMT+2 2: ✅ webContents.created web1 ""
+5/14/2025, 6:52:38 PM GMT+2 3: ✅ window.created win1 "discord"
+5/14/2025, 6:52:38 PM GMT+2 4: ✅ webContents.did-finish-load web1
+5/14/2025, 6:52:39 PM GMT+2 5: ✅ webContents.created web2 ""
+5/14/2025, 6:52:39 PM GMT+2 6: ✅ window.created win2 "Discord"
+5/14/2025, 6:52:42 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/14/2025, 6:52:42 PM GMT+2 8: window.close win1
+5/14/2025, 6:52:42 PM GMT+2 9: webContents.destroyed web1
+5/14/2025, 6:52:42 PM GMT+2 10: window.closed win1
+5/14/2025, 6:52:58 PM GMT+2 11: window.close win2
+5/14/2025, 6:53:09 PM GMT+2 12: before-quit
+5/19/2025, 1:40:14 PM GMT+2 0: 
+
+----------------------------------------------
+5/19/2025, 1:40:14 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/19/2025, 1:40:14 PM GMT+2 2: ✅ webContents.created web1 ""
+5/19/2025, 1:40:14 PM GMT+2 3: ✅ window.created win1 "discord"
+5/19/2025, 1:40:15 PM GMT+2 4: ✅ webContents.created web2 ""
+5/19/2025, 1:40:15 PM GMT+2 5: ✅ window.created win2 "Discord"
+5/19/2025, 1:40:15 PM GMT+2 6: ✅ webContents.did-finish-load web1
+5/19/2025, 1:40:16 PM GMT+2 7: ✅ webContents.did-finish-load web2
+5/19/2025, 1:40:16 PM GMT+2 8: window.close win1
+5/19/2025, 1:40:16 PM GMT+2 9: webContents.destroyed web1
+5/19/2025, 1:40:16 PM GMT+2 10: window.closed win1
+5/19/2025, 7:21:12 PM GMT+2 0: 
+
+----------------------------------------------
+5/19/2025, 7:21:12 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/tomas/.config/discord/0.0.94/modules
+5/19/2025, 10:03:51 PM GMT+2 11: before-quit

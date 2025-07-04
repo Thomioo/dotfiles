@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/.cache/JetBrains/IdeaIC2024.3/demo/IdeaLearningProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="IdeaLearningProject" hidden="true" projectWorkspaceId="2x5jgR0wwdQBywlR1Hmm2PtuW8I">
+              <option name="activationTimestamp" value="1747235188972" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742464260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="2566" y="48" width="1908" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1747235190550" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Minecraft/Fabric/WorldSaver/World-Saver-1.20.1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="World-Saver-1.20.1 – GitHubAuthManager.java [World-Saver-1.20.1.client]" projectWorkspaceId="2x5rTnSjZqh5EAu79r2tF97KCEP">
+              <option name="activationTimestamp" value="1747241108422" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742464260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="2660" y="48" width="1814" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1747238785946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Minecraft/Fabric/WorldSaver">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WorldSaver – build.gradle" opened="true" projectWorkspaceId="2x5wkVXzbLbW6qSTyYep0nQFNnR">
+              <option name="activationTimestamp" value="1747241548424" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742464260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="2569" y="182" width="1908" height="530" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1747241385770" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Projects/Minecraft/Fabric/WorldSaver" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects/Minecraft/Fabric" />
+  </component>
+</application>

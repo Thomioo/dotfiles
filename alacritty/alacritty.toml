@@ -1,0 +1,6 @@
+general.import = ["~/.config/wallust/templates/alacritty.toml"]
+
+[window]
+opacity = 0.7
+padding = {x = 5, y = 5}
+blur = false

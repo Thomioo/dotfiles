@@ -1,0 +1,43 @@
+2025/05/19-13:40:14.723 118a Reusing MANIFEST /home/tomas/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/19-13:40:14.735 118a Recovering log #137
+2025/05/19-13:40:14.736 118a Reusing old log /home/tomas/.config/discord/Local Storage/leveldb/000137.log 
+2025/05/19-13:41:15.590 118b Level-0 table #140: started
+2025/05/19-13:41:15.594 118b Level-0 table #140: 53660 bytes OK
+2025/05/19-13:41:15.599 118b Delete type=0 #137
+2025/05/19-13:41:15.599 118b Compacting 4@0 + 2@1 files
+2025/05/19-13:41:15.614 118b Generated table #141@0: 18 keys, 2533269 bytes
+2025/05/19-13:41:15.641 118b Generated table #142@0: 100 keys, 3588648 bytes
+2025/05/19-13:41:15.641 118b Compacted 4@0 + 2@1 files => 6121917 bytes
+2025/05/19-13:41:15.643 118b compacted to: files[ 0 3 0 0 0 0 0 ]
+2025/05/19-13:41:15.643 118b Delete type=2 #129
+2025/05/19-13:41:15.643 118b Delete type=2 #134
+2025/05/19-13:41:15.643 118b Delete type=2 #128
+2025/05/19-13:41:15.643 118b Delete type=2 #131
+2025/05/19-13:41:15.643 118b Delete type=2 #140
+2025/05/19-13:41:15.643 118b Delete type=2 #136
+2025/05/19-13:43:44.828 118b Level-0 table #144: started
+2025/05/19-13:43:44.852 118b Level-0 table #144: 1014853 bytes OK
+2025/05/19-13:43:44.857 118b Delete type=0 #139
+2025/05/19-19:55:25.294 118a Level-0 table #146: started
+2025/05/19-19:55:25.306 118a Level-0 table #146: 38953 bytes OK
+2025/05/19-19:55:25.311 118a Delete type=0 #143
+2025/05/19-20:53:04.924 118b Level-0 table #148: started
+2025/05/19-20:53:04.934 118b Level-0 table #148: 31232 bytes OK
+2025/05/19-20:53:04.939 118b Delete type=0 #145
+2025/05/19-21:15:42.310 118b Level-0 table #150: started
+2025/05/19-21:15:42.321 118b Level-0 table #150: 33018 bytes OK
+2025/05/19-21:15:42.326 118b Delete type=0 #147
+2025/05/19-21:15:42.326 118b Compacting 4@0 + 2@1 files
+2025/05/19-21:15:42.349 118b Generated table #151@0: 18 keys, 2533269 bytes
+2025/05/19-21:15:42.381 118b Generated table #152@0: 100 keys, 3591966 bytes
+2025/05/19-21:15:42.381 118b Compacted 4@0 + 2@1 files => 6125235 bytes
+2025/05/19-21:15:42.382 118b compacted to: files[ 0 3 0 0 0 0 0 ]
+2025/05/19-21:15:42.383 118b Delete type=2 #142
+2025/05/19-21:15:42.383 118b Delete type=2 #141
+2025/05/19-21:15:42.383 118b Delete type=2 #146
+2025/05/19-21:15:42.383 118b Delete type=2 #144
+2025/05/19-21:15:42.383 118b Delete type=2 #150
+2025/05/19-21:15:42.383 118b Delete type=2 #148
+2025/05/19-21:41:56.655 118b Level-0 table #154: started
+2025/05/19-21:41:56.666 118b Level-0 table #154: 28209 bytes OK
+2025/05/19-21:41:56.671 118b Delete type=0 #149
