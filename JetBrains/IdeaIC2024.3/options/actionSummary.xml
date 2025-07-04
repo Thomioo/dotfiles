@@ -1,0 +1,277 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="23" l="1747240989148" />
+    </e>
+    <e n="$Undo">
+      <i c="11" l="1747240960277" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="10" l="1747238899090" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="1" l="1747239755919" />
+    </e>
+    <e n="CopyPaths">
+      <i c="1" l="1747241057822" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="1" l="1747239754116" />
+    </e>
+    <e n="Documentation.EditSource">
+      <i c="1" l="1747239884480" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="132" l="1747240959307" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="3" l="1747240622445" />
+    </e>
+    <e n="EditorCopy">
+      <i c="14" l="1747240974199" />
+    </e>
+    <e n="EditorCut">
+      <i c="8" l="1747240675646" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="15" l="1747240767701" />
+    </e>
+    <e n="EditorDown">
+      <i c="39" l="1747240797388" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="3" l="1747240488284" />
+    </e>
+    <e n="EditorEnter">
+      <i c="14" l="1747240958290" />
+    </e>
+    <e n="EditorEscape">
+      <i c="6" l="1747240661621" />
+    </e>
+    <e n="EditorLeft">
+      <i c="8" l="1747240621160" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="4" l="1747239859291" />
+    </e>
+    <e n="EditorPaste">
+      <i c="26" l="1747240989451" />
+    </e>
+    <e n="EditorRight">
+      <i c="4" l="1747240648196" />
+    </e>
+    <e n="EditorStartNewLineBefore">
+      <i c="3" l="1747240649096" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1747240958828" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1747240034056" />
+    </e>
+    <e n="EditorUp">
+      <i c="36" l="1747240958520" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1747235194340" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="21" l="1747238899197" />
+    </e>
+    <e n="FileChooser.Refresh">
+      <i c="3" l="1747241381750" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1747240447671" />
+    </e>
+    <e n="Git.Init">
+      <i c="1" l="1747238113306" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="12" l="1747240858649" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="4" l="1747240515439" />
+    </e>
+    <e n="MainMenuAsSeparateToolbarAction">
+      <i c="1" l="1747238949998" />
+    </e>
+    <e n="MethodDown">
+      <i c="9" l="1747240655763" />
+    </e>
+    <e n="MethodUp">
+      <i c="6" l="1747240655292" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1747241445065" />
+    </e>
+    <e n="MoveLineDown">
+      <i c="14" l="1747240660766" />
+    </e>
+    <e n="MoveLineUp">
+      <i c="3" l="1747240485109" />
+    </e>
+    <e n="NavBarLocationTop">
+      <i c="2" l="1747238983653" />
+    </e>
+    <e n="NewClass">
+      <i c="3" l="1747240820534" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1747241459997" />
+    </e>
+    <e n="QuickImplementations">
+      <i c="1" l="1747238804103" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="4" l="1747239233768" />
+    </e>
+    <e n="RenameFile">
+      <i c="1" l="1747240987750" />
+    </e>
+    <e n="Run">
+      <i c="16" l="1747241435687" />
+    </e>
+    <e n="SaveAll">
+      <i c="34" l="1747240992988" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="5" l="1747239200789" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1747239877844" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1747239007392" />
+    </e>
+    <e n="Stop">
+      <i c="3" l="1747240726527" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="2" l="1747240217218" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="2" l="1747240216768" />
+    </e>
+    <e n="ViewStatusBar">
+      <i c="1" l="1747238964720" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1747238067939" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="3" l="1747241369814" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1747239201646" />
+    </e>
+    <e n="ZoomInIdeAction">
+      <i c="5" l="1747239000736" />
+    </e>
+    <e n="ZoomOutIdeAction">
+      <i c="4" l="1747239003620" />
+    </e>
+    <e n="com.github.copilot.actions.PopupActionGroup">
+      <i c="1" l="1747240174744" />
+    </e>
+    <e n="com.github.copilot.chat.inline.InlineChatGutterIconRenderer$getClickAction$1">
+      <i c="1" l="1747240295674" />
+    </e>
+    <e n="com.github.copilot.chat.input.AddReferenceAction">
+      <i c="3" l="1747239919114" />
+    </e>
+    <e n="com.github.copilot.chat.input.SendMessageAction">
+      <i c="8" l="1747240914213" />
+    </e>
+    <e n="com.github.copilot.chat.message.codeblock.CopyCodeBlockAction">
+      <i c="12" l="1747240962000" />
+    </e>
+    <e n="com.github.copilot.chat.message.codeblock.InsertCodeBlockAtCaretAction">
+      <i c="1" l="1747240018618" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1747234963405" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="1" l="1747239901619" />
+    </e>
+    <e n="com.intellij.execution.actions.EditRunConfigAndRunCurrentFileExecutorAction">
+      <i c="1" l="1747241447078" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1747239236068" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1747240293455" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="5" l="1747240453901" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="1" l="1747238412711" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1747235034865" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1747239229323" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="2" l="1747240272412" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1747239092929" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="6" l="1747239247124" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1747240982288" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
+      <i c="1" l="1747238322867" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="18" l="1747240924128" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1747238929187" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.HideCurrentWidgetAction">
+      <i c="1" l="1747238382197" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="13" l="1747238387373" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.NotificationEventAction">
+      <i c="1" l="1747235219676" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1747238904590" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1747239182101" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1747238820207" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1747239103268" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="2" l="1747235329401" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="6" l="1747238077702" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ShortcutConflictsSettings">
+      <i c="1" l="1747238399978" />
+    </e>
+    <e n="copilot.loginGitHub">
+      <i c="1" l="1747238132345" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1747239193604" />
+    </e>
+  </component>
+</application>

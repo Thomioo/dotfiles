@@ -1,0 +1,18 @@
+# GIMP gimp-paintbrush-tool options
+
+(foreground
+    (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+(background
+    (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+(brush "Explain")
+(dynamics "Pressure Size")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 7)
+(brush-spacing 0.080000000000000002)
+(dynamics-enabled no)
+(gradient-blend-color-space cie-lab)
+(use-smoothing yes)
+
+# end of gimp-paintbrush-tool options
